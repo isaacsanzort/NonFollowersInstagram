@@ -1,0 +1,25 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Compiled binaries
+/bin/
+/obj/
+
+# NuGet packages
+/packages/
+*.nupkg
+
+# ReSharper files (if applicable)
+_ReSharper.*
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore user-specific settings
+*.suo
+*.user
+*.userprefs
